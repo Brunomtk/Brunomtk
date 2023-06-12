@@ -19,6 +19,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Arduino" height="30" width="40" src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg">
+  <img align="center" alt="Rafa-flutter" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Google-flutter-logo.svg">
   <img align="center" alt="Rafa-PHP" height="30" width="40" src="https://www.php.net/images/logos/new-php-logo.svg">
   <img align="center" alt="Rafa-Woordpress" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/09/Wordpress-Logo.svg">
 </div>
