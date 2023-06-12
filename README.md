@@ -18,6 +18,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Arduino" height="30" width="40" src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg">
+  <img align="center" alt="Rafa-C" height="30" width="40" src="![image](https://github.com/Brunomtk/Brunomtk/assets/88750125/52d9650d-0e1b-47df-a523-244114fd97f5)">
 </div>
 </div>
   
