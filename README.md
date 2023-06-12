@@ -31,6 +31,8 @@
 
 ## 
 
+<h2>Linguagem de Programação</h2>
+
 <div style="display: inline_block"><br>
 
   
@@ -47,7 +49,7 @@
 </div>
 </div>
   
-  ##
+  <h2>Redes sociais</h2>
  
 <div> 
   <a href="https://www.youtube.com/user/brunomtk" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
