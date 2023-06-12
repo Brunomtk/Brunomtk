@@ -1,7 +1,10 @@
 ## Oiii eu sou o Bruno Mendes da Silva,
 
-Estou cursando: ⚙ UFU - Engenharia de Controle e Automação 
-Cargos: 💎 Diretor de Projetos - CONSELT ,🔺 Agente de Expansão - Núcleo triângulo 
+## Estou cursando
+⚙ UFU - Engenharia de Controle e Automação 
+## Cargos 
+💎 Diretor de Projetos - CONSELT 
+🔺 Agente de Expansão - Núcleo triângulo 
 
 
 
