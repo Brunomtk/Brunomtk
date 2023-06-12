@@ -1,4 +1,4 @@
-## Oiii eu sou a Bruno Mendes da Silva,
+## Oiii eu sou o Bruno Mendes da Silva,
 
 
 - 🔭 I’m currently working on C#
