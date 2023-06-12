@@ -1,12 +1,5 @@
-<h2>
-  Oiii eu sou o Bruno Mendes da Silva
-  
-</h2>
-
-
-- 🔭 I’m currently working on C#
-- 🌱 I’m currently learning Flutter 
-
+# 💫 About Me:
+🔭 I’m currently working on CONSELT <br>🌱 I'm currently evolving as a back adn front end developer<br>📔  I regularly write articles on https://www.linkedin.com/in/bruno-mendes-silva/
 
 
 <picture>
@@ -31,7 +24,7 @@
 
 
 
-<h2>Linguagem de Programação</h2>
+# 💻 Tech Stack:
 
 <div style="display: inline_block"><br>
 
@@ -46,6 +39,8 @@
   <img align="center" alt="Rafa-flutter" height="30" width="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg">
   <img align="center" alt="Rafa-PHP" height="30" width="40" src="https://www.php.net/images/logos/new-php-logo.svg">
   <img align="center" alt="Rafa-Woordpress" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/09/Wordpress-Logo.svg">
+  <img align="center" alt="Rafa-Heroku" height="30" width="40" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
+ 
 </div>
 </div>
   
