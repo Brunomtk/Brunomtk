@@ -27,8 +27,8 @@
 
 <h2>Principais Projetos</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brunomtk&repo=AtelieDrinks&theme=dark)](https://github.com/Brunomtk/AtelieDrinks)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brunomtk&repo=Ponto-eletronico)](https://github.com/Brunomtk/Ponto-eletronico)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
