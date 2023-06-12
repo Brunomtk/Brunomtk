@@ -8,11 +8,10 @@
 - 🌱 I’m currently learning Flutter 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brunomtk)](https://github.com/anuraghazra/github-readme-stats)
 
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=Brunomtk&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
