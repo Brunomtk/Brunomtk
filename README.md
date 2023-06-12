@@ -30,7 +30,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brunomtk&repo=AtelieDrinks&theme=dark)](https://github.com/Brunomtk/AtelieDrinks)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brunomtk&repo=Ponto-eletronico&theme=dark)](https://github.com/Brunomtk/Ponto-eletronico)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brunomtk&repo=fluxo-de-caixa&theme=dark)](https://github.com/Brunomtk/fluxo-de-caixa)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brunomtk&repo=github-readme-stats&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brunomtk&repo=App-de-Gas&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
