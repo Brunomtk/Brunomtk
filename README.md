@@ -18,7 +18,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Arduino" height="30" width="40" src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg">
-  <img align="center" alt="Rafa-C" height="30" width="40" src="https://icons8.com.br/icon/40670/programa%C3%A7%C3%A3o-c">
+  <img align="center" alt="Rafa-PHP" height="30" width="40" src="https://www.php.net/images/logos/new-php-logo.svg">
 </div>
 </div>
   
