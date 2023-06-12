@@ -19,6 +19,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Arduino" height="30" width="40" src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg">
   <img align="center" alt="Rafa-PHP" height="30" width="40" src="https://www.php.net/images/logos/new-php-logo.svg">
+  <img align="center" alt="Rafa-Woordpress" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwordpress.org%2Fabout%2Flogos%2F&psig=AOvVaw2iKN7i_MYgZ5ZSGc-LWzt3&ust=1686677821598000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIiA-diivv8CFQAAAAAdAAAAABAE">
 </div>
 </div>
   
