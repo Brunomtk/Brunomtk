@@ -7,6 +7,9 @@
 - 🔭 I’m currently working on C#
 - 🌱 I’m currently learning Flutter 
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brunomtk)](https://github.com/anuraghazra/github-readme-stats)
+
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
@@ -46,8 +49,6 @@
   <a href="https://www.linkedin.com/in/bruno-mendes-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-
 
 
 
