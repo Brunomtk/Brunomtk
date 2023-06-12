@@ -49,5 +49,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
 
 
