@@ -1,8 +1,11 @@
-## Oiii eu sou o Bruno Mendes da Silva
-Estou cursando: ⚙ UFU - Engenharia de Controle e Automação 
-Cargos: 💎 Diretor de Projetos - CONSELT //🔺 Agente de Expansão - Núcleo triângulo 
+<h2>
+  Oiii eu sou o Bruno Mendes da Silva
+  <hr></hr>
+  Estou cursando: ⚙ UFU - Engenharia de Controle e Automação 
+  <hr></hr>
+  Cargos: 💎 Diretor de Projetos - CONSELT //🔺 Agente de Expansão - Núcleo triângulo 
+</h2>
 
-## 
 
 - 🔭 I’m currently working on C#
 - 🌱 I’m currently learning Flutter 
